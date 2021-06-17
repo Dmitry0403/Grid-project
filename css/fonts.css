@@ -1,0 +1,19 @@
+/* Lora-bold - latin */
+@font-face {
+    font-family: 'Lora', Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    src: local(''),
+         url('/fonts/Lora-Bold.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+        
+  }
+
+  /* Montserrat-Regular - latin */
+@font-face {
+    font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    src: local(''),
+         url('/fonts/Montserrat-Regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+         
+  }
